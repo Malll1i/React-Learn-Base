@@ -1,0 +1,6 @@
+.myBTN{
+    background-color: teal;
+    border: 1px solid teal;
+    cursor: pointer; 
+    color: white;
+}
